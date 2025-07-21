@@ -1,0 +1,16 @@
+{
+  "name": "problem8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"No test specified\" && exit 0", 
+    
+    "build": "echo Building the project...",      
+    "lint": "echo Running linter..."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
